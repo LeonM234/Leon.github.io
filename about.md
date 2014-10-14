@@ -4,8 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+*   [About / Bio](#)
+*   [Blog](#)
+*   [Resume](#)
+*   [Project Portfolio](#)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+[![](/images/LeonPeck.jpg)](#)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### Currently
+
+I am currently attending the Nashville Software School.  I'm in Cohort 7, and currently learning front end development.
+
+### Before
+
+I have degrees in Finance and Economics.  I worked in Finance in California, mainly in start-up enviroments.  We tried to save the pension plans of some very large corporations in a pretty unique way.  We got surprisingly close...before the crash.  I was also in charge of capital investments and fundraising at a middle Tennessee based start-up before deciding to switch to tech.
+
+More details about my previous work experience can be found on [my LinkedIn.](www.linkedin.com/pub/leon-peck/4/969/a1/)
+
+### Interests
+
+*   [VR - Oculus, etc.](http://www.inquisitr.com/1514927/what-is-oculus-rift-and-why-does-kevin-spacey-think-it-will-change-storytelling-forever/)
+*   Rock Climbing
+*   [Formula 1](http://youtu.be/K2cNqaPSHv0)
+*   Start-ups
+*   Learning
