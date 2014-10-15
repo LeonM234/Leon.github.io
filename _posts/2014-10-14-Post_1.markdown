@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "NSS Week 1 - Not Knowing What You Don't Know"
+date:   2014-10-14 10:55:41
+categories: jekyll update
+---
+
+## Terminal
+
+## Terminal Commands
+
+## VIM
+
+## VIM Commands + Shortcuts + Training Exercise
+
+## Installing Git
+
+## Navigating Git
+
+## Setting up GitHub
+
+## Proper GitHub Usage
+
+## HTML Mockup
+
+## CSS
+
+## CSS Trial and Error
+
+## CSS Rage
+
+## CSS "That works..."
+
+## CSS Temporary Mastery
+
+## CSS Trial and Error
+
+## Creating a Website based on an Image of a Previously Created Site
+
+## Media Queries
+
+## "Make Your Mockup in Markup"
+
+## Using Mozilla and Other Developer Resources
+
+## Javscript Koans
+
+## Introduction to Programming Communities in Nashville
+
+## Discussion: Licenses, Open Source, and Copyrights
+
+## Blogging
+
+## Ruby + Jekyll
+
+## This Post
+
+## And Troubleshooting - constant troubleshooting
+
+That list comprises most of what I (we) learned in the first 7 days of class.  The title of the blog may have tipped you off to the fact that most of this was foreign to me prior to joining the Nashville Software School.  I think it's safe to assume the same for the majority of the class.  But at the moment, I see multiple people checking their changes in their Git Repositories, using their command line tools to open files, running virtual servers for Jekyll, and slowly moving from crawling to walking with VIM, using markdown and SASS for the first time, and more.
+
+Drinking form a fire hose is probably an apt analogy.  But it's been a fun, albeit occasionally frustrating, hose to drink from.
+
+I'm going to end these blogs with something I've been reading about, or something I found interesting during the period prior to the blog post.  Here's todays: <a href="http://www.fastcodesign.com/3036091/the-next-big-thing-in-responsive-design">The Next Big Thing in Responsive Design - argues that responsive design needs to move beyond just responding to screen size, and into the realm of adapting to a visitor's location, time of day, what the visitor has already read, etc.</a>
