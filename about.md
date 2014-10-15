@@ -18,9 +18,10 @@ More details about my previous work experience can be found on [my LinkedIn.](ww
 
 ### Interests
 
-*   [VR - Oculus, etc.](http://www.inquisitr.com/1514927/what-is-oculus-rift-and-why-does-kevin-spacey-think-it-will-change-storytelling-forever/)
-*   [Rock Climbing](http://www.climbnashville.com/west/)
-*   [Formula 1](http://youtu.be/K2cNqaPSHv0)
-*   [Start-ups](http://youtu.be/vDwzmJpI4io)
-*   [Investing](http://buffettfaq.com)
-*   [Learning](http://www.quora.com)
+*   <a href="http://i.imgur.com/GgXsbiL.jpg" target="_blank">Web Development</a>   
+*   <a href="http://www.ibtimes.com/kevin-spacey-thinks-oculus-rift-could-change-storytelling-forever-1697351" target="_blank">VR: Oculus, etc.</a>
+*   <a href="http://www.climbnashville.com/west/" target="_blank">Rock Climbing</a>
+*   <a href="http://youtu.be/K2cNqaPSHv0" target="_blank">Formula 1</a>
+*   <a href="http://youtu.be/vDwzmJpI4io" target="_blank">Start-ups</a>
+*   <a href="http://buffettfaq.com" target="_blank">Investing</a>
+*   <a href="http://www.quora.com" target="_blank">Learning</a>
