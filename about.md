@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-*   [About / Bio](#)
-*   [Blog](#)
-*   [Resume](#)
-*   [Project Portfolio](#)
-
 [![](/images/LeonPeck.jpg)](#)
 
 ### Currently
@@ -24,7 +19,8 @@ More details about my previous work experience can be found on [my LinkedIn.](ww
 ### Interests
 
 *   [VR - Oculus, etc.](http://www.inquisitr.com/1514927/what-is-oculus-rift-and-why-does-kevin-spacey-think-it-will-change-storytelling-forever/)
-*   Rock Climbing
+*   [Rock Climbing](http://www.climbnashville.com/west/)
 *   [Formula 1](http://youtu.be/K2cNqaPSHv0)
-*   Start-ups
-*   Learning
+*   [Start-ups](http://youtu.be/vDwzmJpI4io)
+*   [Investing](http://buffettfaq.com)
+*   [Learning](http://www.quora.com)
