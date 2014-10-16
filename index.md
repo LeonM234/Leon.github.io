@@ -5,7 +5,7 @@ permalink: /
 
 ## About Me
 
-[![](/images/LeonPeck.jpg)](#)
+<img src="/images/LeonPeck.jpg" id="my_pic" />
 
 ### Currently
 

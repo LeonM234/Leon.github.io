@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 2px solid rgb(22, 180, 255);
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -238,6 +238,10 @@
 // About Page //
 ul li {
   list-style: none;
+}
+
+#my_pic {
+  max-width: 75%;
 }
 
 // First Post //

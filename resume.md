@@ -8,9 +8,11 @@ permalink: /resume/
 
 *  HTML - Intermediate
 *  CSS - Beginner
+*  SASS - Beginner
 *  Javascript - Beginner
+*  VIM - Beginner
+*  Git/GitHub - Beginner
 *  Jekyll - Beginner
-
 
 ## Prior Life
 
