@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Day 9 - CSS, Transition Properties and Being Resourceful"
+date:   2014-10-16 14:46:00
+category: blog post
+---
+
+Something I quickly learned in class is that it's ok 'not to know'.  The instructors actively encouraged seeking out resources that can help fill in a knowledge gap, or fix a problem.
+
+So I'll be walking through the use of one of these resources when I was trying to add a little zing to this blog.  It wasn't a major undertaking, but it's a fairly good blueprint for the resourcefulness expected of us as students (and future developers).
+
+After getting this blog up and running, I wanted to add something that we hadn't learned in class.  Just something interesting.  I remembered seeing that on certain websites, hovering over a link or some other element can cause some animation to happen.
+
+Here's the process I followed:
+  <ul>
+   <li>1. Picture the end goal</li>
+   <li>2. Search for what you generally want to do</li>
+   <li>3. Find the proper tools and how to use them</li>
+   <li>4. Implement and experiment</li> 
+  </ul>
+
+1 - I wanted to hover over my top links and have a blue background appear behind white text.
+
+2 & 3 - I can't recall exactly what I searched, but something along the lines of "hover link slow change" isn't probably far off.  In this case the proper tool was 'transition-property' within CSS.  This was found via the Mozilla Developers Network (a great resource by the way).  If their documentation isn't sufficient, StackOverfolow and YouTube also seem to be good resources.
+
+4 - Experimenting is probably the most fun.  That small moment where you transition from not knowing how to do something, to having it working, is an addicting one.
+
+Here is the code I used to complete the effect:
+<img src="/images/transition.png" id="transition_img" />
+
+The first block specifies the changes I want to happen when a user hovers over a navigation link.  Specifically: change the background to blue, the text to white, give the background some rounded edges, and slightly increase the font size.  Also, make all this happen quickly, but not immediatly via the 'transition-duration' property.
+
+The second block simply says to take 0.7 seconds to revert back to the original state when a user takes their cursor off the navigation link.
