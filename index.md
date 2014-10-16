@@ -2,7 +2,6 @@
 layout: page
 permalink: /
 ---
-
 ## About Me
 
 <img src="/images/LeonPeck.jpg" id="my_pic" />

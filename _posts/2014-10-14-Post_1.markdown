@@ -33,7 +33,7 @@ Here is a list of what I (we) learned in the first 7 days of class.  The blog co
 
 ## CSS "That works..."
 
-## CSS Temporary Mastery
+## CSS Temporary Perceived Mastery
 
 ## CSS Trial and Error
 
