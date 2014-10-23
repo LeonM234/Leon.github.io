@@ -23,11 +23,11 @@ Here's the process I followed:
 
 2 & 3 - I can't recall exactly what I searched, but something along the lines of "hover link slow change" isn't probably far off.  In this case the proper tool was 'transition-property' within CSS.  This was found via the Mozilla Developers Network (a great resource by the way).  If their documentation isn't sufficient, StackOverfolow and YouTube also seem to be good resources.
 
-4 - Experimenting is probably the most fun.  That small moment where you transition from not knowing how to do something, to having it working, is an addicting one.
+4 - Experimenting is probably the most fun.  That small moment where you transition from not knowing how to do something to having it working is an addicting one.
 
 Here is the code I used to complete the effect:
 <img src="/images/transition.png" id="transition_img" />
 
-The first block specifies the changes I want to happen when a user hovers over a navigation link.  Specifically: change the background to blue, the text to white, give the background some rounded edges, and slightly increase the font size.  Also, make all this happen quickly, but not immediatly via the 'transition-duration' property.
+The first block specifies the changes I want to happen when a user hovers over a navigation link.  Specifically: change the background to blue, the text to white, give the background some rounded edges, and slightly decrease the font size.  Also, make all this happen quickly, but not immediatly via the 'transition-duration' property.
 
 The second block simply says to take 0.7 seconds to revert back to the original state when a user takes their cursor off the navigation link.

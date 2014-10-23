@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Hovering over Earth in a chair destroying asteroids. Oh, and networking."
+date: 2014-10-23
+---
+(Note: If you're just interested in the asteroids, jump down to the Sightline Demo link below!)
+
+Yesterday I went to my first networking event that had some relation to programming: an Oculus Rift VR meetup, put on by <a href="http://www.meetup.com/Nashville-Virtual-Reality-Meetup/" target="_blank">Nashville VR.</a>  
+
+While not directly related to programming, it's the first event I've been able to attend since starting at the Nashville Software School.  It was awesome.
+
+Unlike networking events in my past (finance), there was little to zero pretense or anything that could fall under the category of "schmoozing".  Everyone was awesome and open about their interest in VR - and a lot of people have already started a huge variety of projects for the Oculus platform.  Lots of passionate and curious people.
+
+There were two main attractions.  First, was just to simply try the Oculus.  Second, a Silicon Valley company, Jaunt VR, was doing a live demo.
+
+<ol>
+  <li> <b>Trying the Oculus</b>.  I won't go into too much detail other than that after trying it, I'm fairly certain this is the future of entertainment.  Here is a bit of the demo I tried (note - this isn't me): <a href="http://youtu.be/04vhfp7RUv4?t=5m55s" target="_blank">Sightline Demo</a></li>
+
+  <li> <b>Jaunt VR presentation.</b>  Jaunt is a company focused less on games, and more on the real world.  They're developing the hardware (a 3D camera "ball" with 20 or so cameras on it) and the software necessary to stream real time events, movies, sporting events, and television shows to Oculus users.  
+<br>
+Think watching a football game, but controlling which camera angle you would like. Also, full 3D, and the ability to look wherever you want during a play.  Consider the same for a boxing match, or a concert, or for televised journalism, or architecture/real estate development, and on and on.
+<br>
+They're also looking for developers!  That was nice to hear.  Here is their website (with much less info than was shown onsite due legal reasons that I can't recall): <a href="http://www.jauntvr.com/#about" target="_blank">Jaunt VR</a></li>
+</ol>
+
+Like I said, it was awesome.  And I plan on attending more tech events that may not be directly about programming, but have huge potential for developers in the future.
+

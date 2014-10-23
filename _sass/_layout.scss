@@ -30,9 +30,9 @@ a.page-link:hover {
   color: #FFF;
   text-decoration: none;
   border-radius: 7px;
-  transition-property: background, font, border-radius, background-width;
+  font-size: 0.9em;
+  transition-property: all;
   transition-duration: 0.5s;
-  -webkit-transform: scaleX(1.2);
 }
 
 a.site-title,
