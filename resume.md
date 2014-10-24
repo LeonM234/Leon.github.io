@@ -1,6 +1,6 @@
 ---
+title: Leon Peck's Resume
 layout: page
-title: Resume
 permalink: /resume/
 ---
 
