@@ -1,0 +1,63 @@
+// Sass : see the "Nesting" section on http://sass-lang.com/guide
+
+.post-title {
+  display: none;
+}
+
+#resume {
+  section {
+    clear: both;
+  }
+  h1 {
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  p#home{
+    padding-top: 5px;
+    font-size: 0.85em;
+  }
+  section#preamble a {
+    display: block;
+    float: right;
+    clear: right;
+    margin-bottom: 0.3em;
+    font-size: 0.75em;
+  }
+  section#jobs {
+    // & > ul will translate to section#jobs > ul
+    h2, & > ul {
+      display: inline-block;
+      float: left;
+    ul li {
+      list-style-type: circle;
+    }
+    }
+    h2 { 
+      width: 20%;
+      line-height: 1;
+      font-size: 1.5em;
+      border-bottom: 1px solid black;
+    }
+    & > ul { 
+      width: 80%;
+      margin: 0;
+    }
+    h3 {
+      display: inline-block;
+      margin: 0;
+      font-size: 1.3em;
+    }
+    .dates{
+      float: right;
+    }
+    .employer:before {
+      content: '';
+      display: block;
+      clear: both;
+    }
+    .employer:after {
+      content: ', ';
+    }
+  }
+}

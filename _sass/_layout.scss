@@ -1,6 +1,18 @@
 /**
  * Site header
  */
+
+// Sidebar (on our case is the header element)
+// -> positioned absolutely with a set width of x
+// Content (in our case is the div.page-content)
+// -> margin left of x
+
+
+
+
+
+
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 2px solid rgb(22, 180, 255);
@@ -49,12 +61,13 @@ a.page-link {
     }
 
     .page-link {
+        white-space: nowrap;
         color: $text-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
+        &:not(:last-child) {
+            margin-right: 20px;
         }
     }
 
