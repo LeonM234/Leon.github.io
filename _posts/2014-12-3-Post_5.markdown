@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Modules - Model, View, Controller"
+date: 2014-12-3
+---
+
+I’ve recently graduated to the next level of coding.  Well, sort of.  I was introduced to the concept of the <a href="http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html" target="_blank"> module pattern</a> and have incorporated it into our current project: a two player online game of Tic-Tac-Toe with Javascript, jQuery and Firebase. 
+
+This pattern of coding is a way to separate out the functionality of various parts of your code, while give other parts access to only the functions/data that they need access to.  Resulting in a cleaner (hopefully!) global name space.
+
+For instance, I currently have three modules connecting to one “main.js” file that just runs all the game logic based on a click event.  It looks somewhat like this:
+
+Firebase.js → Handling my Firebase (two player) data and JSON-esque objects
+
+Game.js → Handling the functionality of the game (player turns, checking for wins, etc.)
+
+Dom.js → Handling DOM manipulation (adding things to the screen)
+
+Main.js → The above three get fed into this file, and run when a player adds an X or an O to the board.  
+
+The result?  What normally would have been a clunky, confusing, 200+ line main.js file is now down to under 30 lines.  At least for now…
+
+<b>Interesting thing of the week</b> - a short video love letter to the human species as explorers, and what that exploratory impulse means for our future: <a href="http://vimeo.com/108650530" target="_blank">Wanderers</a>.
